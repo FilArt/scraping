@@ -9,7 +9,7 @@
 3. Скопировать следующие команды и вставить(Shift+Enter) в терминале:
 #### scrapy startproject asd
 #### cd asd/asd
-#### xcel -b asd.py
+#### xsel -b asd.py
 #### scrapy crawl books
 
 
