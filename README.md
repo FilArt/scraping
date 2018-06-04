@@ -8,14 +8,14 @@
 2. Создать пустую папку и открыть ее в терминале.
 3. Выполнить следующие команды в терминале:
      
-#### 1.<b>scrapy startproject asd
-#### 2. cd asd/asd
-#### 3. vim asd.py
-#### 4. i
-#### 5. Shift+Insert
-#### 6. Esc
-#### 7. :wq
-#### 8. scrapy crawl books</b>
+#### scrapy startproject asd
+#### cd asd/asd
+#### vim asd.py
+#### i
+#### Shift+Insert
+#### Esc
+#### :wq
+#### scrapy crawl books
 
 
 После этого создастся файл books.txt в котором будут записаны названия всех книжек с этого сайта.
