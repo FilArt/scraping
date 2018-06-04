@@ -8,7 +8,7 @@
 2. Создать пустую папку и открыть ее в терминале.
 3. Скопировать следующие команды и вставить(Shift+Enter) в терминале:
 #### scrapy startproject asd
-#### cd asd/asd
+#### cd asd/asd/spiders
 #### xsel -b > asd.py
 #### scrapy crawl books
 
