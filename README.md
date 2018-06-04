@@ -7,11 +7,11 @@
 [books_spyder.py](https://github.com/FilArt/scraping/blob/master/books_spider.py)
 2. Создать пустую папку и открыть ее в терминале.
 3. Выполнить следующие в терминале:
-#### scrapy startproject asd
-#### cd asd/asd/spiders
-#### xsel -b > asd.py
-#### scrapy crawl books
-#### vim books.txt
+        <p><b>scrapy startproject asd</b></p>
+        <p><b>cd asd/asd/spiders</b></p>
+        <p><b>xsel -b > asd.py</b></p>
+        <p><b>scrapy crawl books</b></p>
+        <p><b>vim books.txt</b></p>
 
 ### Для windows:
 ...........................
