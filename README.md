@@ -1,11 +1,11 @@
 # Скрипт на Python3 парсящий названия книг с сайта http://books.toscrape.com
 
-# Инструкция по запуску
+# Инструкция по запуску на Linux Ubuntu 18.04 и Windows 10.
 ## Для linux:
 1. Скопировать в буфер обмена код файла
 [books_spyder.py](https://github.com/FilArt/scraping/blob/master/books_spider.py)
 2. Создать пустую папку и открыть ее в терминале.
-3. Выполнить следующие в терминале:
+3. Выполнить следующие команды в терминале:
         <p><b>scrapy startproject books</b></p>
         <p><b>cd books/books/spiders</b></p>
         <p><b>xsel -b > books.py</b></p>
