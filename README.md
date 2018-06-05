@@ -11,7 +11,7 @@
         <p><b>cd asd/asd/spiders</b></p>
         <p><b>xsel -b > asd.py</b></p>
         <p><b>scrapy crawl books</b></p>
-        <p><b>vim books.txt</b></p>
+        <p><b>vi books.txt</b></p>
 
 ### Для windows:
 ...........................
